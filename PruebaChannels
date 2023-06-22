@@ -1,14 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Super Mario Bros. La película (2023)" tvg-logo="http://streamgo.vip:8008/images/777d0c971fc676fd22ec87dde7c502fd.jpg" group-title="Estrenos 2023",Super Mario Bros. La película (2023)
-http://tv.dominiotv.xyz:25461/movie/TomaSegura/63b84m/366273.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Tetris (2023)" tvg-logo="http://streamgo.vip:8008/images/9c28eacbf2fc9982a5ca337182bb01ef.jpg" group-title="Estrenos 2023",Tetris (2023)
-http://streamgo.vip:8008/movie/furiaroja/furiaroja822/287586.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La ballena (2022)" tvg-logo="http://streamgo.vip:8008/images/7fa35e5f7af5e146dcc3310f8813b99b.jpg" group-title="Películas 2022",La ballena (2022)
-http://streamgo.vip:8008/movie/furiaroja/furiaroja822/283293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rápidos y furiosos X (2023) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A76udAc8XWmLs1T29Kocw5Go3H.jpg" group-title="VOD- 4K (30 Mb)",Rápidos y furiosos X (2023) 4K
+http://live.reystream.us:8080/movie/karen34xt/834vsxk5x/118575.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: El sentido del agua FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg" group-title="ESTRENOS",Avatar: El sentido del agua FHD
 http://tv.dominiotv.xyz:25461/movie/TomaSegura/63b84m/361415.mkv
-#EXTINF:-1 tvg-id="" tvg-name="¡Shazam! La furia de los dioses (2023) DUAL" tvg-logo="http://streamgo.vip:8008/images/485386b26e12023e6bb7644ac5a597af.jpg" group-title="Estrenos 2023",¡Shazam! La furia de los dioses (2023) DUAL
-http://streamgo.vip:8008/movie/furiaroja/furiaroja822/290534.mkv
 #EXTINF:0, Un rescate de huevitos | Película
 #EXTVLCOPT:network-caching=1000
 http://regioplay.xyz/105023/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mkv
