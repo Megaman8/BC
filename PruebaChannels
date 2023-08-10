@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Cruzando el multiverso (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqXTerrQYwg9pIMhb1GFbxa3WUz.jpg" ,Spider-Man: Cruzando el multiverso (2023)
+http://50.7.66.234:8080/movie/AR10465/10465R/1164244.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Spider-Man: Un nuevo universo 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ycplQbTU6DRRwiG95lQEpYkOVg.jpg" ,Spider-Man: Un nuevo universo 2 (2022)
 http://50.7.66.234:8080/movie/AR10465/10465R/1093577.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Megalodón 2: La fosa - 2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBgynPDplmo5JTY9VfGqY35OjDu.jpg" ,Megalodón 2: La fosa - 2023
