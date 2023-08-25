@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="LEGO Disney Princess: The Castle Quest (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktAzb7Ygf3hwq84tOWXL8ox832k.jpg" group-title="VOD ESTRENOS 2023",LEGO Disney Princess: The Castle Quest (2023)
+#EXTINF:-1, Elemental - 2023
+http://tv.fullytv.com:8080/movie/juan10/740518/1166263.mkv
+#EXTINF:-1, Los Caballeros del Zodíaco - 2023
+http://tv.fullytv.com:8080/movie/juan10/740518/1161294.mkv
+#EXTINF:-1, LEGO Disney Princess: The Castle Quest (2023)
 http://premiumultra.xyz:8080/movie/95yega65se23ma93/m68du25se78m/64945.mkv
 #EXTINF:-1,Spider-Man: Cruzando el multiverso (2023)
 http://50.7.66.234:8080/movie/AR10465/10465R/1164244.mkv
@@ -17,8 +21,6 @@ http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/320225.mkv
 http://50.7.66.234:8080/movie/alejandralagos@aol.com/Vl2p67b5yI/1168181.mkv
 #EXTINF:-1,Súper Mario Bros. La película (2023)
 http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/311954.mkv
-#EXTINF:-1,CALIDAD CAM Elemental (2023)
-http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/319519.mp4
 #EXTINF:-1,CALIDAD CAM Hazme el favor (2023)
 http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/319520.mp4
 #EXTINF:-1,CALIDAD CAM Indiana Jones y el dial del destino (2023)
