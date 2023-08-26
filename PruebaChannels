@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, La sirenita HD (2023)
+http://premiumultra.xyz:8080/movie/2ur8924wwa/cmis7475n6/59760.mkv
 #EXTINF:-1, Elemental - 2023
 http://tv.fullytv.com:8080/movie/juan10/740518/1166263.mkv
 #EXTINF:-1, Los Caballeros del Zodíaco - 2023
@@ -31,8 +33,6 @@ http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/319521.mp4
 http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/320747.mp4
 #EXTINF:-1,CALIDAD CAM Misión: Imposible - Sentencia mortal parte uno (2023)
 http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/320748.mp4
-#EXTINF:-1,CALIDAD CAM La sirenita (2023)
-http://185.39.50.222:8001/movie/2861/xR4VbCnLKjJp/321025.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rápidos y furiosos X (2023) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4A76udAc8XWmLs1T29Kocw5Go3H.jpg" group-title="VOD- 4K (30 Mb)",Rápidos y furiosos X (2023) 4K
 http://live.reystream.us:8080/movie/karen34xt/834vsxk5x/118575.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Avatar: El sentido del agua FHD" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg" group-title="ESTRENOS",Avatar: El sentido del agua FHD
