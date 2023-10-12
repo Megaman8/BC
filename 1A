@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Europa | DAZN LA LIGA (ESP) 4K" tvg-logo="https://assets.laliga.com/assets/logos/laliga-h/laliga-h-1200x1200.png" group-title="LIGAS DE FÚTBOL EUROPA", Europa | DAZN LALIGA (ESP) 4K TEST
+http://00322.xyz:8000/coachprato/40437757/140948
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1024px-TUDN_Logo.svg.png" group-title="TUDN",TUDN USA
 http://abc123.digital:8080/kellygillette@hotmail.com/QU8B6iCWqR/200946
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="VIP TUDN MX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1024px-TUDN_Logo.svg.png" group-title="TUDN",VIP TUDN MX SD
