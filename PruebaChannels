@@ -1,14 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="La tumba de las Luciernagas (1988)" tvg-logo="http://51.222.152.107/posters/omG8ITneaNkqMVyNQkvQNKbni1G.jpg" group-title="VOD | Animación +",La tumba de las Luciernagas (1988)
+#EXTINF:-1, La tumba de las Luciernagas (1988)
 http://magi-stv.net:8080/movie/GalaxyHHH3999899/WvbQsgvbNavn/41660.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wish: El poder de los deseos (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bmStWmjibcUSz9dzbW1Yxoykxaj.jpg" group-title="VOD | Estrenos CAM (Grabadas del cine, no disponible en HD)",Wish: El poder de los deseos (2023)
-http://magi-stv.net:8080/movie/GalaxyHHH3999899/WvbQsgvbNavn/2192939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wonka (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x6p5jZw7YwqBadiKBDzmXs03Emz.jpg" group-title="VOD | Estrenos CAM (Grabadas del cine, no disponible en HD)",Wonka (2023)
-http://magi-stv.net:8080/movie/GalaxyHHH3999899/WvbQsgvbNavn/2194286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="¡Patos! (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/x2y9b57WxrbPATlyeOr7BesmUem.jpg" group-title="VOD | Estrenos CAM (Grabadas del cine, no disponible en HD)",¡Patos! (2023)
-http://magi-stv.net:8080/movie/GalaxyHHH3999899/WvbQsgvbNavn/2195148.mp4
-#EXTINF:-1, Wish: El poder de los deseos (2023)
-http://factoryplay.online:8080/movie/Acosta1./Acosta2022./403432.mp4
+#EXTINF:-1, Wish: El poder de los deseos 
+http://tv.nousiptv.com:8080/movie/UY2261/81725359103/1192258.mkv
+#EXTINF:-1, Wonka (2023)
+http://tv.nousiptv.com:8080/movie/UY2261/81725359103/1186501.mkv
+#EXTINF:-1, Willy Wonka y la Fabrica de Chocolates 
+http://tv.nousiptv.com:8080/movie/UY2261/81725359103/1097126.mkv
+#EXTINF:-1, Charlie and the Chocolate Factory: Sweet Sounds (2005)
+http://tv.nousiptv.com:8080/movie/UY2261/81725359103/1096839.mkv
+#EXTINF:-1, ¡Patos! (2023)
+http://tv.nousiptv.com:8080/movie/UY2261/81725359103/1187832.mkv
+#EXTINF:-1, Good Burger 2 (2023)
+http://tv.nousiptv.com:8080/movie/UY2261/81725359103/1189657.mkv
 #EXTINF:-1,Oppenheimer LAT (2023)
 http://00322.xyz:8000/movie/rances123/9IFBBCRBIX/191662.mkv
 #EXTINF:-1,PAW Patrol The Mighty Movie LAT (2023)
