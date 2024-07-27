@@ -1,4 +1,62 @@
 #EXTM3U
+#EXTINF:-1 xui-id="288499" tvg-id="" tvg-name="NBA TV" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZhlKPKRazC40gdeuB5920wEb4PvW3nr8Ju_mSqXY5fBojUIywccYpTxqu5zKtwgrQ.png" group-title="NBA SOLO EVENTOS",NBA TV
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXn4MLNstO02YGaIQk7Vj7_/ts
+#EXTINF:-1 xui-id="4943" tvg-id="" tvg-name="US | TNT" tvg-logo="http://offshore.lat:25461/images/454f1c0e5e8ea8259ef5280e079c163a.png" group-title="ESTADOS UNIDOS",US | TNT
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEV_-IaOrYleKEvH9MA67I76/ts
+#EXTINF:-1 xui-id="22661" tvg-id="abcwabc.us" tvg-name="US | ABC New York HD" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQHDvJpaEvRZJQ/company-logo_200_200/0?e=2159024400&v=beta&t=NFfG95wXqbjGeXDdMCpkb4eEHC8OyLj6rQ-3rX0pUsg" group-title="ESTADOS UNIDOS",US | ABC New York HD
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVKVZGsGiTr8nLAKfQrT87r/ts
+#EXTINF:-1 xui-id="267688" tvg-id="nflnetwork.us" tvg-name="NFL Network" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmb6A8VNTwmkdF-xNYFJlriiO1cr_vj30S49UaL-H-aZfmTJIyHY2aJsWMPWb3pDD2M.png" group-title="NFL SOLO EVENTOS",NFL Network
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVYJW-Q5gl89q2J5sBjKlEZ/ts
+#EXTINF:-1 xui-id="330632" tvg-id="mlbnetwork.us" tvg-name="MLB Network HD" tvg-logo="http://offshore.lat:8080/images/DOT1Os9LdAAzPXrQoBL6daibsBZgyc07WK-bIBGNQdN6JV4wT2Yu1sEZoNkzVPp3wXys7kO97du4AquuNZeT1Ta9gbYIVkRxRivH1k1n4Yg.png" group-title="MLB SOLO EVENTOS",MLB Network HD
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXuEvcE6ncGKEYRubAc_MXo/ts
+#EXTINF:-1 xui-id="389732" tvg-id="nhlnetwork.us" tvg-name="USA | Nhl Network" tvg-logo="http://offshore.lat:8080/images/oRSVtQmvjEt-kpHzrlCGJgkcyvoqc_i-CvRMlgTQXJCByu71cbQGAe94tDX8E9Rg.jpeg" group-title="NHL SOLO EVENTOS",USA | Nhl Network
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEWo6O3cRHZxU6YTdeKPkCxe/ts
+#EXTINF:-1 xui-id="412787" tvg-id="" tvg-name="Casa de los Famosos Multicámaras" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JOJW87IJ2rKQ6dep9dtJFDSmIzfoOzRXlYkLtW4W8dHH.png" group-title="CASA DE LOS FAMOSOS",Casa de los Famosos Multicámaras
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEV9vNyWMMIjosDPbHNv1rWx/ts
+#EXTINF:-1 xui-id="412789" tvg-id="" tvg-name="Casa de los Famosos acceso total" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JOJW87IJ2rKQ6dep9dtJFDSmIzfoOzRXlYkLtW4W8dHH.png" group-title="CASA DE LOS FAMOSOS",Casa de los Famosos acceso total
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEWSG4vVw1Rsg_jNoJrVENmO/ts
+#EXTINF:-1 xui-id="412790" tvg-id="" tvg-name="Casa de los Famosos Baño" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JOJW87IJ2rKQ6dep9dtJFDSmIzfoOzRXlYkLtW4W8dHH.png" group-title="CASA DE LOS FAMOSOS",Casa de los Famosos Baño
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXIw2wPCoArA50Dl2XvFuv5/ts
+#EXTINF:-1 xui-id="412791" tvg-id="" tvg-name="Casa de los Famosos Cocina" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JOJW87IJ2rKQ6dep9dtJFDSmIzfoOzRXlYkLtW4W8dHH.png" group-title="CASA DE LOS FAMOSOS",Casa de los Famosos Cocina
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEWXBgUbb-tYOXu4_uBRueg4/ts
+#EXTINF:-1 xui-id="412792" tvg-id="" tvg-name="Casa de los Famosos Habitación 1" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JOJW87IJ2rKQ6dep9dtJFDSmIzfoOzRXlYkLtW4W8dHH.png" group-title="CASA DE LOS FAMOSOS",Casa de los Famosos Habitación 1
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEUrKbz4_84wo9g2bOlt1cn1/ts
+#EXTINF:-1 xui-id="412793" tvg-id="" tvg-name="Casa de los Famosos Habitación 2" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JOJW87IJ2rKQ6dep9dtJFDSmIzfoOzRXlYkLtW4W8dHH.png" group-title="CASA DE LOS FAMOSOS",Casa de los Famosos Habitación 2
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVMC1c_0MkHizxcA79DxYrm/ts
+#EXTINF:-1 xui-id="412794" tvg-id="" tvg-name="Casa de los Famosos Sala" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JOJW87IJ2rKQ6dep9dtJFDSmIzfoOzRXlYkLtW4W8dHH.png" group-title="CASA DE LOS FAMOSOS",Casa de los Famosos Sala
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVblZkS627lrwCZvslfbquO/ts
+#EXTINF:-1 xui-id="412795" tvg-id="" tvg-name="Gran Hermano Chile 1" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JK7hBju8B5f1kgHvVrELe_G9lWHsVz0weXzXQ9XNbm3_.png" group-title="CASA DE LOS FAMOSOS",Gran Hermano Chile 1
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVfuyvoREkCg6N3Z-NH81Uw/ts
+#EXTINF:-1 xui-id="412796" tvg-id="" tvg-name="Gran Hermano Chile 2" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JK7hBju8B5f1kgHvVrELe_G9lWHsVz0weXzXQ9XNbm3_.png" group-title="CASA DE LOS FAMOSOS",Gran Hermano Chile 2
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVbUVLjCWB-kjYlGa_h7_21/ts
+#EXTINF:-1 xui-id="412797" tvg-id="" tvg-name="Gran Hermano Chile 3" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JK7hBju8B5f1kgHvVrELe_G9lWHsVz0weXzXQ9XNbm3_.png" group-title="CASA DE LOS FAMOSOS",Gran Hermano Chile 3
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEWDreb31mzQ2b_nKqrccZkK/ts
+#EXTINF:-1 xui-id="412798" tvg-id="" tvg-name="Gran Hermano Chile 4" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JK7hBju8B5f1kgHvVrELe_G9lWHsVz0weXzXQ9XNbm3_.png" group-title="CASA DE LOS FAMOSOS",Gran Hermano Chile 4
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVWDOJK0936BaYIsOw6KF1X/ts
+#EXTINF:-1 xui-id="412799" tvg-id="" tvg-name="Gran Hermano Chile 5" tvg-logo="http://offshore.lat:8080/images/QCqX5p5x3Y181Q8jwb82JK7hBju8B5f1kgHvVrELe_G9lWHsVz0weXzXQ9XNbm3_.png" group-title="CASA DE LOS FAMOSOS",Gran Hermano Chile 5
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEW1jGJWELAe01dmbzyYGid9/ts
+#EXTINF:-1 xui-id="413117" tvg-id="" tvg-name="Claro Sports 1" tvg-logo="" group-title="JUEGOS OLIMPICOS PARIS 2024",Claro Sports 1
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEWHOEyWUJybuC_Hru9K_Y3B/ts
+#EXTINF:-1 xui-id="413118" tvg-id="" tvg-name="Claro Sports 2" tvg-logo="" group-title="JUEGOS OLIMPICOS PARIS 2024",Claro Sports 2
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEUa__MhoKOh0rH0skIdbS6u/ts
+#EXTINF:-1 xui-id="413119" tvg-id="" tvg-name="Claro Sports 3" tvg-logo="" group-title="JUEGOS OLIMPICOS PARIS 2024",Claro Sports 3
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXjZl0SVV7xSow-AB3P2lQU/ts
+#EXTINF:-1 xui-id="413120" tvg-id="" tvg-name="Claro Sports 4" tvg-logo="" group-title="JUEGOS OLIMPICOS PARIS 2024",Claro Sports 4
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEW7sxcIyZnnH4YnnmYrN5A6/ts
+#EXTINF:-1 xui-id="413121" tvg-id="" tvg-name="ES | Eurosport 1" tvg-logo="" group-title="JUEGOS OLIMPICOS PARIS 2024",ES | Eurosport 1
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEU5f9D9dTJ9Hc3QqmOlnBqL/ts
+#EXTINF:-1 xui-id="413122" tvg-id="" tvg-name="ES | Eurosport 2" tvg-logo="" group-title="JUEGOS OLIMPICOS PARIS 2024",ES | Eurosport 2
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEWWVra4vi4-E8mnUfopWr5e/ts
+#EXTINF:-1 xui-id="413123" tvg-id="" tvg-name="La 1" tvg-logo="" group-title="JUEGOS OLIMPICOS PARIS 2024",La 1
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEUrzo-YrxeDH-ASgO7BV4rI/ts
+#EXTINF:-1 xui-id="413124" tvg-id="" tvg-name="La 2" tvg-logo="" group-title="JUEGOS OLIMPICOS PARIS 2024",La 2
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEUfgNMYYgnifIEnKaf2lcC8/ts
+#EXTINF:-1 xui-id="413125" tvg-id="" tvg-name="Teledeporte" tvg-logo="" group-title="JUEGOS OLIMPICOS PARIS 2024",Teledeporte
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVw6vk4mt0R8Dxugq4UI_9F/ts
+#EXTINF:-1 xui-id="413126" tvg-id="" tvg-name="US | Universo" tvg-logo="" group-title="JUEGOS OLIMPICOS PARIS 2024",US | Universo
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEUDA5TwjkFdgs4tppKVFAkr/ts
+#EXTINF:-1 xui-id="413127" tvg-id="" tvg-name="US | USA Network" tvg-logo="" group-title="JUEGOS OLIMPICOS PARIS 2024",US | USA Network
+http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEWxFkt06Fr7FtfLLi1g9p5t/ts
 #EXTINF:-1 tvg-id="" tvg-name="Inside Out 2 (2024)*CAM[HDTS]-Dual" tvg-logo="http://zuiowy.net:8080/images/bb226412c7947ea9de738f421e33ed90.jpg" group-title="*Estrenos 2024 / 2024 New Releases",Inside Out 2 (2024)*CAM[HDTS]-Dual
 http://ok4.club:8080/movie/Orioles2023/RCpx7Szx8twX/144254.mkv
 #EXTINF:-1 tvg-id="" tvg-name="CINE: LATINO 01" tvg-logo="https://i.ibb.co/0C8nkZr/KTWHw-KZsn-Usqz-CXnz-Q-a-Vycp-Jwryyr-YA6-IY7j0b-ZGy6-SCTs-Vt-Byy-Kuz33-Kepkcv-Z6q-Zz.png" group-title="Lo mejor del Cine en 4K y Latino | PPV",CINE: LATINO 01
