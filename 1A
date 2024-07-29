@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 xui-id="410954" tvg-name="CALIDAD CAM Tornados (2024)" tvg-logo="http://offshore.lat:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLO0UC4e5oAlqyN9QNBvrCFqGzoC_oxiniZ4YejLDx63Y.jpg" group-title="TOP ESTRENOS 2024",CALIDAD CAM Tornados (2024)
+http://offshore.lat:8080/play/sjWai2yDdQesL8rJ5aFyYy1qjgIMexCZeG36yN6XDyLRZLeZvuK-Oi9sy_uk_CNg#.mp4
+#EXTINF:-1 xui-id="413281" tvg-name="CALIDAD CAM Deadpool and Wolverine (2024)" tvg-logo="http://offshore.lat:8080/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLXOkwcO7xlCVblKY4HTPH-GIcGEZzc4QLqp4ipM6W9fk.jpg" group-title="TOP ESTRENOS 2024",CALIDAD CAM Deadpool and Wolverine (2024)
+http://offshore.lat:8080/play/sjWai2yDdQesL8rJ5aFyYy1qjgIMexCZeG36yN6XDyLo8yNuSw1pdk5U_RhUbg2Y#.mp4
+#EXTINF:-1 xui-id="26092" tvg-name="Stranger than Fiction - 2000" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6FLwPdqx0pjMRfBOsxaGCcniN5.jpg" group-title="COMEDIA",Stranger than Fiction - 2000
+http://offshore.lat:8080/play/sjWai2yDdQesL8rJ5aFyYy1qjgIMexCZeG36yN6XDyLCWfDvAyPSkb195txS5A-l#.mp4
 #EXTINF:-1 xui-id="288499" tvg-id="" tvg-name="NBA TV" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZhlKPKRazC40gdeuB5920wEb4PvW3nr8Ju_mSqXY5fBojUIywccYpTxqu5zKtwgrQ.png" group-title="NBA SOLO EVENTOS",NBA TV
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXn4MLNstO02YGaIQk7Vj7_/ts
 #EXTINF:-1 xui-id="4943" tvg-id="" tvg-name="US | TNT" tvg-logo="http://offshore.lat:25461/images/454f1c0e5e8ea8259ef5280e079c163a.png" group-title="ESTADOS UNIDOS",US | TNT
