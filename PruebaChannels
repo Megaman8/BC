@@ -1,20 +1,64 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Uncharted (2022)4K*Dual" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sqLowacltbZLoCa4KYye64RvvdQ.jpg" group-title="*4K UHD (150 mbps +)",Uncharted (2022)4K*Dual
-http://ok4.club:8080/movie/Carisha5362/8k5A9X8UYWHR/97396.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Avatar: The Way of Water (2022) - DUAL (4K)" tvg-logo="http://zuihaode.site:25461/images/54ec67f84033582cc12496bacf9c689d.jpg" group-title="*4K UHD (150 mbps +)",Avatar: The Way of Water (2022) - DUAL (4K)
-http://ok4.club:8080/movie/Carisha5362/8k5A9X8UYWHR/116214.mkv
-#EXTINF:-1 tvg-id="" tvg-name="The Super Mario Bros. Movie (2023)*Dual-4K.HDR10+" tvg-logo="http://zuihaode.site:25461/images/5dd48e9e8ba827aedd47ac11eaadfca3.jpg" group-title="*4K UHD (150 mbps +)",The Super Mario Bros. Movie (2023)*Dual-4K.HDR10+
-http://ok4.club:8080/movie/Carisha5362/8k5A9X8UYWHR/121254.mkv
-#EXTINF:-1 tvg-id="" tvg-name="John Wick: Chapter 4 (2023)*Dual-4K.HDR10+" tvg-logo="http://zuihaode.site:25461/images/432bf28ca63965446d57e8f702bd0d27.jpg" group-title="*4K UHD (150 mbps +)",John Wick: Chapter 4 (2023)*Dual-4K.HDR10+
-http://ok4.club:8080/movie/Carisha5362/8k5A9X8UYWHR/121704.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones and the Dial of Destiny (2023)*Dual-4K.DV.HDR10" tvg-logo="http://zuiowy.net:8080/images/b19f79fc7b2673f33ee4e9139979ea26.jpg" group-title="*4K UHD (150 mbps +)",Indiana Jones and the Dial of Destiny (2023)*Dual-4K.DV.HDR10
-http://ok4.club:8080/movie/Carisha5362/8k5A9X8UYWHR/127469.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Wonka (2023)*Dual-4K.DV" tvg-logo="http://zuiowy.net:8080/images/b55fbdfdda60c50c087b0ce897e9afeb.jpg" group-title="*4K UHD (150 mbps +)",Wonka (2023)*Dual-4K.DV
-http://ok4.club:8080/movie/Carisha5362/8k5A9X8UYWHR/135153.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 (2024)*Dual-4K.HDR" tvg-logo="http://zuiowy.net:8080/images/870cbf4ecf18f3978ff7eae72ffb9fc4.jpg" group-title="*4K UHD (150 mbps +)",Kung Fu Panda 4 (2024)*Dual-4K.HDR
-http://ok4.club:8080/movie/Carisha5362/8k5A9X8UYWHR/140299.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dune: Part Two (2024)*Dual-4K.DV.HDR10+" tvg-logo="http://zuiowy.net:8080/images/f9e8012203be5217fac676bed4ef2524.jpg" group-title="*4K UHD (150 mbps +)",Dune: Part Two (2024)*Dual-4K.DV.HDR10+
-http://ok4.club:8080/movie/Carisha5362/8k5A9X8UYWHR/140782.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Súper Mario Bros. La película - HD  2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" group-title="VOD - ANIMACION",Súper Mario Bros. La película - HD  2023
+http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1158437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 HD (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS8BSQdbOesql0EWbs17kPvLoAT.jpg" group-title="VOD - ANIMACION",Kung Fu Panda 4 HD (2024)
+http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1204953.mkv
+#EXTINF:-1 tvg-id="" tvg-name="La gran película de Baby Shark (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCijwCyk5uhi7a0G0ICcUZ5hwZi.jpg" group-title="VOD - ANIMACION",La gran película de Baby Shark (2024)
+http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1207388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Intensamente 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aKI2LLc6KWH65kyQeVF14YtB5F.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Intensamente 2 (2024)
+http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1210334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Amigos imaginarios (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RgGuC7w8JxhykauzTC4bwha1J8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Amigos imaginarios (2024)
+http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1210611.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Furiosa: de la saga Mad Max (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Furiosa: de la saga Mad Max (2024)
+http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1210972.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi Villano Favorito 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTpzSDfbUuHPEgqgt5vwVtPHhrb.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Mi Villano Favorito 4 (2024)
+http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1214752.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool y Wolverine (2024)" tvg-logo="https://s.yimg.com/ny/api/res/1.2/6KPw0awIQ9afZw41tD7ETw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTE0MjI7Y2Y9d2VicA--/https://media.zenfs.com/es/tomatazos_56/c5fb21c198b4d690a0e7af110ebd6127" group-title="VOD - ESTRENOS Y RECIENTES",Deadpool y Wolverine (2024)
+http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1214820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tornados (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50xgtaDR0xJkLSVghdTGUeMoPHP.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Tornados (2024)
+http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1215400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla y Kong: El nuevo imperio HD (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg" group-title="VOD - CIENCIA FICCION",Godzilla y Kong: El nuevo imperio HD (2024)
+http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1208092.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyxNIxjH8ksDHoCyy8cmCgusqL6.jpg" group-title="SERIES - DRAMA",Your Honor S01 E01
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1115400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ge6JtelIvFq55iQa76fQ6pSJiWj.jpg" group-title="SERIES - DRAMA",Your Honor S01 E02
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1115401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CsDjirBKlPZbMkmhNErp3UdJOn.jpg" group-title="SERIES - DRAMA",Your Honor S01 E03
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1115402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RWduOBqJDgh2Tzv5ciww3ZMbOo.jpg" group-title="SERIES - DRAMA",Your Honor S01 E04
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1115403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8sYBT28dj6Kn0mXSnCTbpGRqUD6.jpg" group-title="SERIES - DRAMA",Your Honor S01 E05
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1115404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fsqtU0W1tzIsih8PUuD4mTdpAYt.jpg" group-title="SERIES - DRAMA",Your Honor S01 E06
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1115405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlTcA9mW8wvMlE8DtX6BSkDhP4A.jpg" group-title="SERIES - DRAMA",Your Honor S01 E07
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1115406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wws8e2upfRBUSYJOiqEYdynbm5W.jpg" group-title="SERIES - DRAMA",Your Honor S01 E08
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1115407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2k0frC58HRpqhU0HTrS4ZD0Ftro.jpg" group-title="SERIES - DRAMA",Your Honor S01 E09
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1115408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jKJnlAJjwdZexiOdQWg1BH3WNe6.jpg" group-title="SERIES - DRAMA",Your Honor S01 E10
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1115409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39dcffcM4KePJS1cYlvAAg3wk7n.jpg" group-title="SERIES - DRAMA",Your Honor S02 E01
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1211991.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nR8CUcaxRwLIHsDZGGUti8kjHtB.jpg" group-title="SERIES - DRAMA",Your Honor S02 E02
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1211992.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5aDatgb9iDeXtMYbBUiEeoIc9N.jpg" group-title="SERIES - DRAMA",Your Honor S02 E03
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1211993.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u25ujD6W1fqN7czsR7VydyBRBfv.jpg" group-title="SERIES - DRAMA",Your Honor S02 E04
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1211994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CWQeQOAPmGBcd2prx4oQrVVPmu.jpg" group-title="SERIES - DRAMA",Your Honor S02 E05
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1211995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y3wu7jU4M6jfrF4H2dEiL27hXz.jpg" group-title="SERIES - DRAMA",Your Honor S02 E06
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1211996.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4t8NiU2aEWctBH6Js53Xmbohawl.jpg" group-title="SERIES - DRAMA",Your Honor S02 E07
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1211997.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFfzcSZ2Gj2QLspWYIFjYTHsmoZ.jpg" group-title="SERIES - DRAMA",Your Honor S02 E08
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1211998.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4Li9iPURtXXX0k4mZyCgDrD1vB.jpg" group-title="SERIES - DRAMA",Your Honor S02 E09
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1211999.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Your Honor S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Ig8sy7RODVUgEIxiMlSmTgg1D.jpg" group-title="SERIES - DRAMA",Your Honor S02 E10
+http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1212000.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Darkness of Man (2024)* Dual" tvg-logo="http://zuiowy.net:8080/images/128a504e5ce326d9251011bfd4124d8d.jpg" group-title="*Estrenos 2024 / 2024 New Releases",Darkness of Man (2024)* Dual
 http://ok4.club:8080/movie/Carisha5362/8k5A9X8UYWHR/142017.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Godzilla x Kong: The New Empire (2024)*Dual" tvg-logo="http://zuiowy.net:8080/images/6de3818c8cfcab15edf1f883eea94543.jpg" group-title="*Estrenos 2024 / 2024 New Releases",Godzilla x Kong: The New Empire (2024)*Dual
@@ -857,11 +901,7 @@ http://tv.nousiptv.com:8080/movie/UY2261/81725359103/1189657.mkv
 http://00322.xyz:8000/movie/pedrogilsanchez/ZPEU4AW/191662.mkv
 #EXTINF:-1, El Camino Hacia El Dorado
 http://aztkplay.pro:25461/movie/Ca62Le87/MLT3R4fbeP/40323.mkv
-#EXTINF:-1, Hasta el último hombre (2016) 4K
-http://00322.xyz:8000/movie/pedrogilsanchez/ZPEU4AW/123239.mkv
 #EXTINF:-1, Avicii Tribute Concert: In Loving Memory of Tim Bergling 4K (Test)
-http://00322.xyz:8000/movie/pedrogilsanchez/ZPEU4AW/137888.mkv
-#EXTINF:-1, Avatar: El sentido del agua 4K (Test)
 http://00322.xyz:8000/movie/pedrogilsanchez/ZPEU4AW/160897.mkv
 #EXTINF:-1, ¡Scooby Doo! ¡Y Krypto también!
 #EXTINF:0,000 BC 2008
