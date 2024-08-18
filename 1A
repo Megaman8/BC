@@ -167,6 +167,24 @@ http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1211998.mkv
 http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1211999.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Your Honor S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Ig8sy7RODVUgEIxiMlSmTgg1D.jpg" group-title="SERIES - DRAMA",Your Honor S02 E10
 http://tv.nousiptv.com:8080/series/Pablocorvo/092214036/1212000.mkv
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Toda La Casa en Vivo 24/7 |" tvg-logo="" group-title=" ✨ LA CASA DE LOS FAMOSOS MEXICO",LCDLF | Toda La Casa en Vivo 24/7 |
+http://aa.gregordom.com:8080/2Jd2RhJQ6A/urfAHa6cVN/286539
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Acceso Total 24/7 |" tvg-logo="" group-title=" ✨ LA CASA DE LOS FAMOSOS MEXICO",LCDLF | Acceso Total 24/7 |
+http://aa.gregordom.com:8080/2Jd2RhJQ6A/urfAHa6cVN/286540
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Habitacion Mar En Vivo |" tvg-logo="" group-title=" ✨ LA CASA DE LOS FAMOSOS MEXICO",LCDLF | Habitacion Mar En Vivo |
+http://aa.gregordom.com:8080/2Jd2RhJQ6A/urfAHa6cVN/286541
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Habitacion Tierra En Vivo |" tvg-logo="" group-title=" ✨ LA CASA DE LOS FAMOSOS MEXICO",LCDLF | Habitacion Tierra En Vivo |
+http://aa.gregordom.com:8080/2Jd2RhJQ6A/urfAHa6cVN/286542
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Cocina En Vivo |" tvg-logo="" group-title=" ✨ LA CASA DE LOS FAMOSOS MEXICO",LCDLF | Cocina En Vivo |
+http://aa.gregordom.com:8080/2Jd2RhJQ6A/urfAHa6cVN/286543
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Sala EN Vivo |" tvg-logo="" group-title=" ✨ LA CASA DE LOS FAMOSOS MEXICO",LCDLF | Sala EN Vivo |
+http://aa.gregordom.com:8080/2Jd2RhJQ6A/urfAHa6cVN/286544
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Baño En Vivo |" tvg-logo="" group-title=" ✨ LA CASA DE LOS FAMOSOS MEXICO",LCDLF | Baño En Vivo |
+http://aa.gregordom.com:8080/2Jd2RhJQ6A/urfAHa6cVN/286545
+#EXTINF:-1 tvg-id="" tvg-name="LCDLF | Multicamaras |" tvg-logo="" group-title=" ✨ LA CASA DE LOS FAMOSOS MEXICO",LCDLF | Multicamaras |
+http://aa.gregordom.com:8080/2Jd2RhJQ6A/urfAHa6cVN/286546
+#EXTINF:-1 tvg-id="" tvg-name="CASA DE LOS FAMOSOS 1" tvg-logo="" group-title=" ✨ LA CASA DE LOS FAMOSOS MEXICO",CASA DE LOS FAMOSOS 1
+http://aa.gregordom.com:8080/2Jd2RhJQ6A/urfAHa6cVN/286548
 #EXTINF:-1 xui-id="288499" tvg-id="" tvg-name="NBA TV" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZhlKPKRazC40gdeuB5920wEb4PvW3nr8Ju_mSqXY5fBojUIywccYpTxqu5zKtwgrQ.png" group-title="NBA SOLO EVENTOS",NBA TV
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXn4MLNstO02YGaIQk7Vj7_/ts
 #EXTINF:-1 xui-id="4943" tvg-id="" tvg-name="US | TNT" tvg-logo="http://offshore.lat:25461/images/454f1c0e5e8ea8259ef5280e079c163a.png" group-title="ESTADOS UNIDOS",US | TNT
