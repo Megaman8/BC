@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Los descendientes 4 (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EsbF2Xr2AAwwNYDIimhigKSL03.jpg" group-title="VOD-ESTRENOS",Los descendientes 4 (Dual-2024)
+http://tecnozone.site:8880/movie/B-p7eRS/sW-16-fM/182926.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Romper el círculo (Lat-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EH42blLQzgqwDWxn39RXkTgb91.jpg" group-title="VOD-ESTRENOS",Romper el círculo (Lat-2024)
 http://tecnozone.site:8880/movie/B-p7eRS/sW-16-fM/184045.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Súper Mario Bros. La película - HD  2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" group-title="VOD - ANIMACION",Súper Mario Bros. La película - HD  2023
