@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="El Secuestro del Papa" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHLVcHGky7KQthqe2Wsrmv2AeKS.jpg" group-title="→ VOD ESTRENOS 2023 ←",El Secuestro del Papa
+http://premierchile.shop:8080/movie/923939796tv/x53wt4e/250747.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Operación Esperanza: Los niños perdidos en el Amazonas (2024)*Dual" tvg-logo="http://zuiowy.net:8080/images/f3c12a962617be7c47e7205c54b39c74.jpg" group-title="*Estrenos 2024 / 2024 New Releases",Operación Esperanza: Los niños perdidos en el Amazonas (2024)*Dual
 http://tvlatinaplus.com:8080/movie/MEGAFOODSURRUTIA0614/JHDHjVFCv87C/141230.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los descendientes 4 (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EsbF2Xr2AAwwNYDIimhigKSL03.jpg" group-title="VOD-ESTRENOS",Los descendientes 4 (Dual-2024)
