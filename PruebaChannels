@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Amelie (2001) DUAL" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jj94nwaprDdKXCv1zXYRJkRNa2p.jpg" group-title="PRIME VIDEO",Amelie (2001) DUAL
+http://cineplay.vip:2086/movie/pwpolamco/3DWAVASAnU/70104.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Los descendientes 4 (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EsbF2Xr2AAwwNYDIimhigKSL03.jpg" group-title="VOD-ESTRENOS",Los descendientes 4 (Dual-2024)
 http://tecnozone.site:8880/movie/B-p7eRS/sW-16-fM/182926.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Romper el círculo (Lat-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EH42blLQzgqwDWxn39RXkTgb91.jpg" group-title="VOD-ESTRENOS",Romper el círculo (Lat-2024)
