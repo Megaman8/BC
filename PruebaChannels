@@ -1,44 +1,12 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-name="Los descendientes 4 (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EsbF2Xr2AAwwNYDIimhigKSL03.jpg" group-title="VOD-ESTRENOS",Los descendientes 4 (Dual-2024)
 http://tecnozone.site:8880/movie/B-p7eRS/sW-16-fM/182926.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Romper el círculo (Lat-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EH42blLQzgqwDWxn39RXkTgb91.jpg" group-title="VOD-ESTRENOS",Romper el círculo (Lat-2024)
 http://tecnozone.site:8880/movie/B-p7eRS/sW-16-fM/184045.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Súper Mario Bros. La película - HD  2023" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNKs1T0VZuJiVuhuL5GSCNkGdxf.jpg" group-title="VOD - ANIMACION",Súper Mario Bros. La película - HD  2023
-http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1158437.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda 4 HD (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS8BSQdbOesql0EWbs17kPvLoAT.jpg" group-title="VOD - ANIMACION",Kung Fu Panda 4 HD (2024)
-http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1204953.mkv
-#EXTINF:-1 tvg-id="" tvg-name="La gran película de Baby Shark (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCijwCyk5uhi7a0G0ICcUZ5hwZi.jpg" group-title="VOD - ANIMACION",La gran película de Baby Shark (2024)
-http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1207388.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Intensamente 2 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7aKI2LLc6KWH65kyQeVF14YtB5F.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Intensamente 2 (2024)
-http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1210334.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Amigos imaginarios (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RgGuC7w8JxhykauzTC4bwha1J8.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Amigos imaginarios (2024)
-http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1210611.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Furiosa: de la saga Mad Max (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Furiosa: de la saga Mad Max (2024)
-http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1210972.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Mi Villano Favorito 4 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTpzSDfbUuHPEgqgt5vwVtPHhrb.jpg" group-title="VOD - ESTRENOS Y RECIENTES",Mi Villano Favorito 4 (2024)
-http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1214752.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Deadpool y Wolverine (2024)" tvg-logo="https://s.yimg.com/ny/api/res/1.2/6KPw0awIQ9afZw41tD7ETw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTE0MjI7Y2Y9d2VicA--/https://media.zenfs.com/es/tomatazos_56/c5fb21c198b4d690a0e7af110ebd6127" group-title="VOD - ESTRENOS Y RECIENTES",Deadpool y Wolverine (2024)
-http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1214820.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Tornados (Dual-2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50xgtaDR0xJkLSVghdTGUeMoPHP.jpg" group-title="VOD-ESTRENOS",Tornados (Dual-2024)
 http://tecnozone.site:8880/movie/B-p7eRS/sW-16-fM/183512.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla y Kong: El nuevo imperio HD (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg" group-title="VOD - CIENCIA FICCION",Godzilla y Kong: El nuevo imperio HD (2024)
-http://tv.nousiptv.com:8080/movie/Pablocorvo/092214036/1208092.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Darkness of Man (2024)* Dual" tvg-logo="http://zuiowy.net:8080/images/128a504e5ce326d9251011bfd4124d8d.jpg" group-title="*Estrenos 2024 / 2024 New Releases",Darkness of Man (2024)* Dual
-http://ok4.club:8080/movie/Carisha5362/8k5A9X8UYWHR/142017.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla x Kong: The New Empire (2024)*Dual" tvg-logo="http://zuiowy.net:8080/images/6de3818c8cfcab15edf1f883eea94543.jpg" group-title="*Estrenos 2024 / 2024 New Releases",Godzilla x Kong: The New Empire (2024)*Dual
-http://ok4.club:8080/movie/Carisha5362/8k5A9X8UYWHR/142036.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kingdom of the Planet of the Apes (2024)*CAM-Lat" tvg-logo="http://zuiowy.net:8080/images/a567e667827cae63a2e48d945fe4a2df.jpg" group-title="*Estrenos 2024 / 2024 New Releases",Kingdom of the Planet of the Apes (2024)*CAM-Lat
-http://ok4.club:8080/movie/Carisha5362/8k5A9X8UYWHR/142037.mp4
-#EXTINF:-1, Wish: El poder de los deseos 
-http://tv.nousiptv.com:8080/movie/UY2261/81725359103/1192258.mkv
-#EXTINF:-1, Wonka (2023)
-http://tv.nousiptv.com:8080/movie/UY2261/81725359103/1186501.mkv
-#EXTINF:-1, Good Burger 2 (2023)
-http://tv.nousiptv.com:8080/movie/UY2261/81725359103/1189657.mkv
-#EXTINF:-1,Oppenheimer LAT (2023)
-http://00322.xyz:8000/movie/pedrogilsanchez/ZPEU4AW/191662.mkv
-#EXTINF:-1, Avicii Tribute Concert: In Loving Memory of Tim Bergling 4K (Test)
-http://00322.xyz:8000/movie/pedrogilsanchez/ZPEU4AW/160897.mkv
+
 #EXTINF:0,000 BC 2008
 http://144.217.70.79/VODS-M/1080P/10,000%20BC%202008.mkv
 #EXTINF:0,10 cloverfield lane 2016
